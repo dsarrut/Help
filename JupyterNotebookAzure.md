@@ -25,7 +25,7 @@ Now you can see Python 3.6 on the top right:
 
 ![](pictures/jupyterNotebookAzure2.png)
 
-## Install requiere packages:
+## Install some required packages:
 
 Upload at the root folder, the file ```aznbsetup.sh```containing the following lines:
 
@@ -52,7 +52,7 @@ Waiting for your container to finish being prepared...
 Important preparation is in progress for your container. You may enter now but your environment setup may still be in progress.
 ```
 
-You can click on the cross; the server is installing all requieres packages describe in ```aznbsetup.sh```. It takes aroud 5 min. During this time you can import only basic libraries in the notebook. To see the status of the installation of packages, you can follow these instructions:
+You can click on the cross; the server is installing all required packages described in ```aznbsetup.sh```. It takes around 5 min. During this time you can import only basic libraries in the notebook. To see the status of the installation of packages, you can follow these instructions:
 
 After opening a notebook, Click on
 ````
@@ -85,7 +85,7 @@ You can do it multiples times to display the content of this file. It is finishe
 
   
 
-The last line can take some minutes to install all require packages.
+The last line can take some minutes to install all required packages.
 
   
 
@@ -95,7 +95,7 @@ The last line can take some minutes to install all require packages.
 
 Now you can come back to you preferred Jupyter Notebook and execute it. But you need to know 2 things:
 
-1. If you open a new Jupyter Notebook, you should need to change the Python version from 3 to 3.6 (like in the first chapter)
+1. If you open a new Jupyter Notebook, you need to change the Python version from 3 to 3.6 (like in the first chapter)
 
 2.  If you disconnect from Microsoft Azure, you should redo the installation of require packages (like in the second chapter)
 
